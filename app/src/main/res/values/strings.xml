@@ -1,0 +1,78 @@
+<resources>
+
+    <string name="app_name">근처 맛집 정보</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="nation">
+        <item>김밥천국</item>
+        <item>홍익돈까스</item>
+        <item>봉구스밥버거</item>
+        <item>버거킹</item>
+        <item>맘스터치</item>
+        <item>보영만두</item>
+        <item>교촌</item>
+        <item>엽기떡볶이</item>
+        <item>스타벅스</item>
+        <item>이삭 토스트</item>
+    </string-array>
+
+    <string-array name="explain">
+        <item>: 한국의 대표적인 토종 패스트 푸드점 김밥천국</item>
+        <item>:홍익의 뜻을 바탕으로 항상 고객의 입장에서
+품질과 서비스 개선에 최선을 다하는
+전문 프렌차이즈 기업입니다.</item>
+        <item>:
+봉구스밥버거는 어머니의 정성과 신세대의 입맛에 어우러진 신개념 주먹밥입니다
+영양과 맛뿐만 아니라 저렴한 가격과 든든함으로 맛있는 한 끼를 제공하고자 합니다.</item>
+        <item>: 버거킹은 고객의 만족을 위해서 청결과 맛 서비스를 고루 갖춘 햄버거 기업입니다.</item>
+        <item>: 미리 만들어 놓고 나눠주다시피 하는 판매가아닌 정성어린 한끼 식사를
+준비한다 는 마음가짐으로 주문을 받은 즉시 제로를하여 고객에게 제공하는 고객을 가장먼저 생각하는
+맘스터치 입니다.</item>
+        <item>: 만두체인점 1등</item>
+        <item>: 닭의 크기는 병아리지만 맛은 괜찮음</item>
+        <item>: 떡볶이가 비쌀수있다? 라는걸 처음으로 보여줌 </item>
+        <item>: 커피보단 분위기죠 </item>
+        <item>: 생각은 안나지만 누군가 먹으면 먹고싶음</item>
+    </string-array>
+
+    <string-array name="population">
+        <item>밥,라면,뚝배기</item>
+        <item>돈까스</item>
+        <item>밥,라면</item>
+        <item>햄버거</item>
+        <item>햄버거,치킨</item>
+        <item>만두,쫄면</item>
+        <item>치킨</item>
+        <item>떡볶이</item>
+        <item>커피,빵</item>
+        <item>토스트</item>
+    </string-array>
+
+    <string-array name="capital">
+        <item>김밥,오므라이스 주방요리사마다 맛이 다다름</item>
+        <item>돈까스 크기는 매우크나 반도 못먹고 느끼해서 남기는 집</item>
+        <item>간단하지만 든든하고 맛도 좋은 가성비 음식</item>
+        <item>길거리에 버거킹이 있으면 그곳은 번화가</item>
+        <item>패티가 너무커서 먹기는 불편하지만 맛은 괜찮음</item>
+        <item>만두보다 쫄면이 더맛있는집</item>
+        <item>닭?병아리? 맛은 괜찮으나 이게 닭이 맞는지 의문점이 드는집</item>
+        <item>14000원?너무비싸네여..생각하지만 계속 먹게 되는 집</item>
+        <item>커피가 맛있다는사람은 전부다 거짓말~~ 솔직히 있어보이기 때문에 가는곳</item>
+        <item>누군가 사주면 정말맛있음 허나 내돈주고 잘안사먹게됨.</item>
+    </string-array>
+    <string name="title_activity_login">Sign in</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+
+</resources>
