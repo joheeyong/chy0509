@@ -1,0 +1,23 @@
+
+m
+=app/src/main/java/com/android/developer/chy0509/itemlist.java,2\a\2aa895d8b8c65f8893a6ef3445c760cf7cf97ebf
+p
+@app/src/main/java/com/android/developer/chy0509/information.java,4\d\4db9cee22a264bcb9cf6a93d80dce86c9e803e20
+j
+:app/src/main/java/com/android/developer/chy0509/sunwi.java,2\b\2b1675257bb98170388d8271c3fbee0a15970a74
+n
+>app/src/main/java/com/android/developer/chy0509/userinput.java,9\a\9ad829672b72edc778e873267f4b35006fb71f41
+P
+ app/src/main/AndroidManifest.xml,8\c\8c55c3ccc257e5907959013f99656e4c8ec3903e
+j
+:app/src/main/java/com/android/developer/chy0509/login.java,c\d\cd497bc306c8d5727c9a6e670192ba2644565974
+k
+;app/src/main/java/com/android/developer/chy0509/loding.java,e\4\e40cfbdc545f85e6f20a067c891c5a0c76337c4f
+j
+:app/src/main/java/com/android/developer/chy0509/start.java,1\f\1f5ceadf74376ad8520eda2c52c326ffc29d4a8c
+q
+Aapp/src/main/java/com/android/developer/chy0509/MainActivity.java,f\9\f9262e80b61d69784968b907d4e54dd487f48aeb
+k
+;app/src/main/java/com/android/developer/chy0509/random.java,3\9\398b23776dcefb0d1f62f4f2bf0f8187a6c9c54d
+q
+Aapp/src/main/java/com/android/developer/chy0509/information2.java,d\5\d5febb8c64fc3af5219220774677ff447fae416e
