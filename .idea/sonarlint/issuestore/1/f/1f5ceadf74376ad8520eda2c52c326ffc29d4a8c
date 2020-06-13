@@ -1,6 +1,6 @@
 
-K
-java:S1128".Remove this unused import 'android.view.Menu'.(£¯Ò…8õÎ—ª.
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¶€°¯ûÿÿÿÿ
 O
 java:S1128"2Remove this unused import 'android.view.MenuItem'.(Ğ¬Ó‘8õÎ—ª.
-g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¶€°¯ûÿÿÿÿ
+K
+java:S1128".Remove this unused import 'android.view.Menu'.(£¯Ò…8õÎ—ª.

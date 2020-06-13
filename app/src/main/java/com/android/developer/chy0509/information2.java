@@ -1,4 +1,4 @@
 package com.android.developer.chy0509;
 
-public class information2 {
+class information2 {
 }
