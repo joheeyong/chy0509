@@ -1,21 +1,21 @@
 
-n
-java:S1301‰"KReplace this "switch" statement by "if" statements to increase readability.(øå´¡ÿÿÿÿÿ8æøÕ™ª.
 O
 java:S1199)"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ8æøÕ™ª.
-@
-java:S2119,"Save and re-use this "Random".(âÔËïøÿÿÿÿ8æøÕ™ª.
-O
-java:S1199!"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ8æøÕ™ª.
-O
-java:S11999"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ8æøÕ™ª.
 D	java:S131‰""Add a default case to this switch.(øå´¡ÿÿÿÿÿ8æøÕ™ª.
-O
-java:S11991"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ8æøÕ™ª.
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(‘Şˆ
 ;
 java:S2119$"Save and re-use this "Random".(‚çÆ¤8æøÕ™ª.
+O
+java:S11991"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ8æøÕ™ª.
+O
+java:S11999"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ8æøÕ™ª.
+O
+java:S1199!"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ8æøÕ™ª.
 ;
 java:S2119<"Save and re-use this "Random".(şŒ´´8æøÕ™ª.
-b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(‘Şˆ
+@
+java:S2119,"Save and re-use this "Random".(âÔËïøÿÿÿÿ8æøÕ™ª.
+n
+java:S1301‰"KReplace this "switch" statement by "if" statements to increase readability.(øå´¡ÿÿÿÿÿ8æøÕ™ª.
 ;
 java:S21194"Save and re-use this "Random".(ñ§8æøÕ™ª.

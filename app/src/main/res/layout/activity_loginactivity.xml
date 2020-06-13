@@ -59,18 +59,12 @@
         android:layout_weight="1"
         android:orientation="vertical">
 
-        <ImageView
+        <Button
             android:layout_width="match_parent"
-            android:layout_height="50dp"
+            android:layout_height="wrap_content"
+            android:text="로그인"/>
 
-            android:foreground="@drawable/dkahffkd"/>
 
-
-        <android.support.v4.view.ViewPager
-            android:id="@+id/viewPager"
-            android:layout_width="match_parent"
-            android:layout_weight="7"
-            android:layout_height="450dp" />
     </LinearLayout>
 
 </LinearLayout>

@@ -5,6 +5,7 @@
     android:layout_height="match_parent"
     android:orientation="vertical">
 
+
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
@@ -13,42 +14,35 @@
 
         <ImageButton
             android:id="@+id/imgbutton1"
+            android:layout_weight="1"
             android:layout_width="wrap_content"
             android:layout_height="match_parent"
-            android:layout_weight="1"
             android:foreground="@drawable/map" />
 
 
         <ImageButton
             android:id="@+id/imgbutton2"
+            android:layout_weight="1"
             android:layout_width="wrap_content"
             android:layout_height="match_parent"
-            android:layout_weight="1"
             android:foreground="@drawable/random" />
-
-        <ImageButton
-            android:id="@+id/imgbutton6"
-            android:layout_width="wrap_content"
-            android:layout_height="match_parent"
-            android:layout_weight="1"
-            android:foreground="@drawable/call" />
 
 
         <ImageButton
             android:id="@+id/imgbutton4"
+            android:layout_weight="1"
             android:layout_width="wrap_content"
             android:layout_height="match_parent"
-            android:layout_weight="1"
-            android:foreground="@drawable/information" />
-
+            android:foreground="@drawable/sbmit" />
 
         <ImageButton
             android:id="@+id/imgbutton5"
+            android:layout_weight="1"
             android:layout_width="wrap_content"
             android:layout_height="match_parent"
-            android:layout_weight="1"
-            android:foreground="@drawable/crown" />
+            android:foreground="@drawable/crown"/>
     </LinearLayout>
+
 
 
 
@@ -59,18 +53,12 @@
         android:layout_weight="1"
         android:orientation="vertical">
 
-        <ImageView
+
+
+        <Button
             android:layout_width="match_parent"
-            android:layout_height="50dp"
-
-            android:foreground="@drawable/dkahffkd"/>
-
-
-        <android.support.v4.view.ViewPager
-            android:id="@+id/viewPager"
-            android:layout_width="match_parent"
-            android:layout_weight="7"
-            android:layout_height="450dp" />
+            android:layout_height="wrap_content"
+            android:text="정보"/>
     </LinearLayout>
 
 </LinearLayout>

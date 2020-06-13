@@ -3,11 +3,13 @@ package com.android.developer.chy0509;
 import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
+import android.widget.Button;
 import android.widget.ImageButton;
 
+import androidx.annotation.Nullable;
 import androidx.appcompat.app.AppCompatActivity;
 
-class information extends AppCompatActivity {
+public class information extends AppCompatActivity {
 
     ImageButton imageButton1;
     ImageButton imgButton1;

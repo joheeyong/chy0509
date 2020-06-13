@@ -65,14 +65,12 @@
             <LinearLayout
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
-
                 android:orientation="horizontal">
 
                 <LinearLayout
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
                     android:layout_weight="1"
-
                     android:orientation="vertical">
 
                     <ImageView
@@ -83,25 +81,21 @@
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:textColor="#000000"
                         android:text="- 맘스터치 봉담점" />
 
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:textColor="#000000"
-                        android:text="- 경기 부천시 부일로 714" />
+                        android:text="- 경기 화성시 봉담읍 동화길 51 " />
 
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:textColor="#000000"
                         android:text="- 인기메뉴 : 통새우버거" />
 
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:textColor="#000000"
                         android:text="- 연중뮤휴 12:00 ~ 22:00" />
                 </LinearLayout>
 
@@ -119,25 +113,21 @@
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:textColor="#000000"
-                        android:text="- 봉구스 밥버거 유한점" />
+                        android:text="- 봉구스 밥버거 봉담점" />
 
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:textColor="#000000"
-                        android:text="- 서울 구로구 오리로 1313" />
+                        android:text="-  봉담읍 동화길 81-10,화성시 " />
 
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:textColor="#000000"
                         android:text="- 인기메뉴 : 햄치즈봉에그" />
 
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:textColor="#000000"
                         android:text="- 영업시간 : 10:00 ~ 22:30" />
 
 
@@ -170,25 +160,21 @@
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:textColor="#000000"
-                        android:text="- 전주한식부페" />
+                        android:text="- 봉담반점" />
 
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:textColor="#000000"
-                        android:text="- 경기 부천시 경인로 583 " />
+                        android:text="-  경기 화성시 봉담읍 삼천병마로 " />
 
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:textColor="#000000"
-                        android:text="- 인기메뉴 : 한식정식세트" />
+                        android:text="- 인기메뉴 : 매운짜장" />
 
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:textColor="#000000"
                         android:text="- 영업시간 : 10:00 ~ 21:00 연중무휴" />
 
                 </LinearLayout>
@@ -207,34 +193,24 @@
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:textColor="#000000"
-                        android:text="- 유한대학교 학식" />
+                        android:text="- 장안대학교 학식" />
 
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:textColor="#000000"
-                        android:text="-  경기도 부천시 경인로 590 " />
+                        android:text="-  경기도 화성시 봉담읍 삼천병마로 " />
 
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:textColor="#000000"
                         android:text="- 매일 메뉴가 다름" />
 
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:textColor="#000000"
                         android:text="- 영업시간 : 11:30 ~ 14:30" />
                 </LinearLayout>
             </LinearLayout>
         </LinearLayout>
     </LinearLayout>
 </LinearLayout>
-
-
-
-
-
-

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:foregroundGravity="center"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="2"
+        android:orientation="vertical">
+
+        <ImageView
+            android:id="@+id/testimage"
+            android:layout_width="match_parent"
+            android:layout_height="150dp"
+            android:foreground="@drawable/bo" />
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <RatingBar
+                android:id="@+id/ratingBar1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:stepSize="0.1"
+                android:rating="0"
+                android:isIndicator="false"/>
+
+            <Button
+                android:id="@+id/ratbtn"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_toRightOf="@+id/ratingBar1"
+                android:foreground="@drawable/star"
+                android:text="평가하기"/>
+            <Button
+                android:id="@+id/webbtn"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_toRightOf="@+id/ratbtn"
+                android:foreground="@drawable/call"
+                android:text="전화걸기"/>
+
+        </RelativeLayout>
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/tv"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#000000"
+            android:textSize="30dp"
+            android:text="평점 : " />
+
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="15dp"
+            android:textColor="#000000"
+            android:text="\n
+
+봉구스는 맛있는 한입거리라는 뜻의 프랑스어입니다.
+봉구스밥버거는 어머니의 정성과 신세대의 입맛에 어우러진 '신개념 주먹밥'입니다 '영양'과 '맛'뿐만 아니라 '저렴한 가격'과 '든든함'으로 맛있는 한 끼를 제공하고자 합니다.\n\n
+
+밥버거’라는 명칭은 글로벌화를 위해 만들어졌습니다.
+봉구스에서 만든 ‘밥버거’라는 명칭은 한국의 주먹밥에 국한되지 않고, 세계 로 나아 가기 위해 만들어진 단어입니다. 처음 밥버거라는 명칭을 사용하기 시작했을 때는 ‘햄버거에 밥이?’ 혹은 ‘밥으로 햄버거를?’ 이라며 의아해 하거나 헷갈려 하시는 손님들이 많았습니다.\n\n
+
+밥버거는 주먹밥입니다.
+그래서 크고 동그랗게 만들어졌습니다. 봉구스 밥버거는 정확한 정량 으로는 밥 한 공기 반이 넘는 양으로 하나만 드셔도 충분히 배가 부릅니다.\n\n
+많은 시행착오 끝에 만들어진 건강하고
+맛좋은 밥버거 입니다.
+"
+            />
+
+    </LinearLayout>
+</LinearLayout>
+

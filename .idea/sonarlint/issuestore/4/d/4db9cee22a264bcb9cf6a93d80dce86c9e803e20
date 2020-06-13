@@ -1,3 +1,6 @@
 
-g	java:S101
-"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ƒß‡«ùÿÿÿÿ
+T
+java:S1128"2Remove this unused import 'android.widget.Button'.(²òıÿÿÿÿ8ÈÆÎèª.
+V
+java:S1128	"9Remove this unused import 'androidx.annotation.Nullable'.(¾Èêš8µ¤–èª.
+n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ûƒ›úÿÿÿÿ8––Ùçª.

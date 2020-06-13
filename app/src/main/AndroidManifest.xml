@@ -26,9 +26,19 @@
             </intent-filter>
         </activity>
         <activity android:name=".start" ></activity>
-        <activity android:name=".information" ></activity>
         <activity android:name=".random" ></activity>
         <activity android:name=".MainActivity" ></activity>
+        <activity android:name=".login" ></activity>
+        <activity android:name=".information2" ></activity>
+        <activity android:name=".sunwi" ></activity>
+        <activity android:name=".userinputtoast" ></activity>
+        <activity android:name=".userinput" ></activity>
+        <activity android:name=".loginactivitytoast" ></activity>
+        <activity android:name=".itemlist" ></activity>
+        <activity android:name=".ImageFragment" ></activity>
+        <activity android:name=".information" ></activity>
+
+
     </application>
 
 </manifest>
