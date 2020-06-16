@@ -55,12 +55,11 @@ public class start extends AppCompatActivity {
                 startActivity(intent);
             }
         });
-        imgButton6 = (ImageButton)findViewById(R.id.imgbutton6);
-
+        imgButton6 = (ImageButton) findViewById(R.id.imgbutton6);
         imgButton6.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent intent = new Intent(start.this,information.class);
+                Intent intent = new Intent(start.this, information.class);
                 startActivity(intent);
             }
         });

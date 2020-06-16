@@ -121,7 +121,7 @@ class itemlist extends AppCompatActivity {
 
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
-        getMenuInflater().inflate(R.menu.menu_information, menu);
+        getMenuInflater().inflate(R.menu.menu3_information, menu);
         return true;
     }
 
