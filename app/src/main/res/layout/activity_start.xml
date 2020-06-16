@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    xmlns:tools="http://schemas.android.com/tools"
-    android:orientation="vertical"
-    tools:context=".start">
+    android:orientation="vertical">
 
     <LinearLayout
         android:layout_width="match_parent"
@@ -91,7 +90,7 @@
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:textColor="#000000"
-                        android:text="- 경기 부천시 부일로 714" />
+                        android:text="- 경기 화성시 봉담읍 동화길 51 " />
 
                     <TextView
                         android:layout_width="wrap_content"
@@ -121,13 +120,13 @@
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:textColor="#000000"
-                        android:text="- 봉구스 밥버거 유한점" />
+                        android:text="- 봉구스 밥버거 봉담점" />
 
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:textColor="#000000"
-                        android:text="- 서울 구로구 오리로 1313" />
+                        android:text="-  봉담읍 동화길 81-10,화성시 " />
 
                     <TextView
                         android:layout_width="wrap_content"
@@ -172,19 +171,19 @@
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:textColor="#000000"
-                        android:text="- 전주한식부페" />
+                        android:text="- 봉담반점" />
 
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:textColor="#000000"
-                        android:text="- 경기 부천시 경인로 583 " />
+                        android:text="-  경기 화성시 봉담읍 삼천병마로 " />
 
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:textColor="#000000"
-                        android:text="- 인기메뉴 : 한식정식세트" />
+                        android:text="- 인기메뉴 : 매운짜장" />
 
                     <TextView
                         android:layout_width="wrap_content"
@@ -209,13 +208,13 @@
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:textColor="#000000"
-                        android:text="- 유한대학교 학식" />
+                        android:text="- 장안대학교 학식" />
 
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:textColor="#000000"
-                        android:text="-  경기도 부천시 경인로 590 " />
+                        android:text="-  경기도 화성시 봉담읍 삼천병마로 " />
 
                     <TextView
                         android:layout_width="wrap_content"
