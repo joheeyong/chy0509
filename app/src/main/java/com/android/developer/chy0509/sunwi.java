@@ -13,7 +13,7 @@ import androidx.viewpager.widget.ViewPager;
 
 import java.util.ArrayList;
 
-class sunwi extends AppCompatActivity {
+public class sunwi extends AppCompatActivity {
 
     ImageButton imgButton1;
     ImageButton imgButton2;
@@ -113,7 +113,7 @@ class sunwi extends AppCompatActivity {
     class FragmentAdapter extends FragmentPagerAdapter {
 
         // ViewPager에 들어갈 Fragment들을 담을 리스트
-        private ArrayList<Fragment> fragments = new ArrayList<>();
+        private ArrayList<Fragment> fragments = new ArrayList<> ();
 
         // 필수 생성자
         FragmentAdapter(FragmentManager fm) {

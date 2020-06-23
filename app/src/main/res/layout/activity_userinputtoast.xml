@@ -81,12 +81,12 @@
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:text="- 맘스터치 봉담점" />
+                        android:text="- 맘스터치 역곡점" />
 
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:text="- 경기 화성시 봉담읍 동화길 51 " />
+                        android:text="- 경기 부천시 부일로 714 " />
 
                     <TextView
                         android:layout_width="wrap_content"
@@ -113,12 +113,12 @@
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:text="- 봉구스 밥버거 봉담점" />
+                        android:text="- 봉구스 밥버거 궁동점" />
 
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:text="-  봉담읍 동화길 81-10,화성시 " />
+                        android:text="-  경기도 부천시 경인로 590 " />
 
                     <TextView
                         android:layout_width="wrap_content"
@@ -160,17 +160,17 @@
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:text="- 봉담반점" />
+                        android:text="- 혜영반점" />
 
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:text="-  경기 화성시 봉담읍 삼천병마로 " />
+                        android:text="-  경기 부천시 경인로 583 " />
 
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:text="- 인기메뉴 : 매운짜장" />
+                        android:text="- 인기메뉴 : 짜장/탕수육 세트" />
 
                     <TextView
                         android:layout_width="wrap_content"
@@ -193,12 +193,12 @@
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:text="- 장안대학교 학식" />
+                        android:text="- 유한대학교 학식" />
 
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:text="-  경기도 화성시 봉담읍 삼천병마로 " />
+                        android:text="-  경기도 부천시 경인로 590 " />
 
                     <TextView
                         android:layout_width="wrap_content"

@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
 
+
     <item android:title="로그아웃"
         android:orderInCategory="100"
         android:id="@+id/menu3"/>
@@ -8,8 +9,6 @@
     <item android:title="마이페이지"
         android:orderInCategory="100"
         android:id="@+id/menu4"/>
-
-
 
 
 

@@ -25,8 +25,6 @@ d
 4app/src/main/res/drawable/ic_launcher_background.xml,4\9\49845c622cb06d895975c7b1e3f943e320bce688
 h
 8app/src/main/res/drawable-v24/ic_launcher_foreground.xml,0\7\078508c831007ccb3938b355f0d30a8368f99a8d
-b
-2app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml,8\e\8e27ba16c655f421171956147d0fde89b7d25d17
 h
 8app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml,6\e\6ec7d34b130497a10dc92abcde9b313d370a89df
 t
@@ -62,3 +60,15 @@ s
 Capp/src/main/java/com/android/developer/chy0509/userinputtoast.java,e\3\e316453c8b9aa07a0ae52bfca988560eb03dd3c8
 n
 >app/src/main/java/com/android/developer/chy0509/userinput.java,9\a\9ad829672b72edc778e873267f4b35006fb71f41
+p
+@app/src/main/java/com/android/developer/chy0509/ItemDataBox.java,0\c\0c26aa5776958c977034a0da2ea7d85497032ef6
+m
+=app/src/main/java/com/android/developer/chy0509/ItemView.java,3\7\37c3d2594a27c64bfafdd8135a5606fc206d0f89
+o
+?app/src/main/java/com/android/developer/chy0509/listlayout.java,e\f\efe104bede1801c4d7bd15c043c30a9171abfc08
+r
+Bapp/src/main/java/com/android/developer/chy0509/loginacitvity.java,f\f\ffa5f8646f52c858440f2d67a777adf5c7375f50
+r
+Bapp/src/main/java/com/android/developer/chy0509/MyBaseAdapter.java,9\3\93aa991a96255a48d71a6385e4e25865e0725aa3
+k
+;app/src/main/java/com/android/developer/chy0509/school.java,4\0\400eade655268a2112c2bdd4de2116766f1e00d6

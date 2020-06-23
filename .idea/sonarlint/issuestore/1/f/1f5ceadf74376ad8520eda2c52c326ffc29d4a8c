@@ -1,7 +1,7 @@
 
-g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¶€°¯ûÿÿÿÿ
 T
-java:S1128"2Remove this unused import 'android.widget.Button'.(²òıÿÿÿÿ8˜¹ççª.
+java:S1128"2Remove this unused import 'android.widget.Button'.(²òıÿÿÿÿ8­‡šà«.
+C	java:S131V""Add a default case to this switch.(øå´¡ÿÿÿÿÿ8Ûéœåª.
 m
-java:S1301W"KReplace this "switch" statement by "if" statements to increase readability.(øå´¡ÿÿÿÿÿ8Ûéœåª.
-C	java:S131W""Add a default case to this switch.(øå´¡ÿÿÿÿÿ8Ûéœåª.
+java:S1301V"KReplace this "switch" statement by "if" statements to increase readability.(øå´¡ÿÿÿÿÿ8Ûéœåª.
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¶€°¯ûÿÿÿÿ

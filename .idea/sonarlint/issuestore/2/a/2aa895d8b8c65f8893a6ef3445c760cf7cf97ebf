@@ -1,4 +1,6 @@
 
-i	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ıÁòê8Şºòßª.
-_
-java:S2094"BRemove this empty class, write its code or make it an "interface".(ıÁòê8Şºòßª.
+M
+java:S1481s"0Remove this unused "currentData" local variable.(µ†œ—8¨Ğ²éª.
+n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ú„Ûùÿÿÿÿ8Şºòßª.
+\
+java:S1854s"?Remove this useless assignment to local variable "currentData".(µ†œ—8¨Ğ²éª.
